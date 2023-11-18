@@ -8,30 +8,39 @@ from urllib.parse import urljoin
 
 # initialize an HTTP session
 session = HTMLSession()
-
 # url of site where form lives
 url = 'https://pgprules.cmdm.tw/'
 
-# GET request to the URL with the submission form
-response = session.get(url)
 
-# find the radio button and file inputs
-file_input = response.html.find('input[type="file"]', first=True)
-radio_input = response.html.find('input[type="radio"][name="pred_type"]', first=True)
+def submit_form(url):
+    # GET request to the URL with the submission form
+    response = session.get(url)
 
-# action pulled by submitting post response in live window
-# new url is what we will post against
-file_action = 'ajaxsubmit.php'
-new_url = urljoin(url, file_action)
+    # find the radio button and file inputs
+    file_input = response.html.find('input[type="file"]', first=True)
+    radio_input = response.html.find('input[type="radio"][name="pred_type"]', first=True)
 
-# create dictionary for the file and radio button values to include in post submission
-data = {"pred_type": "substrate"}
-files = {file_name: open('input_substrate.sdf', 'rb')}
+    # action pulled by submitting post response in live window
+    # new url is what we will post against
+    file_name = file_input.attrs['name']
+    file_action = 'ajaxsubmit.php'
+    new_url = urljoin(url, file_action)
 
-# submit the form
-response = session.post(new_url, data=data, files=files)
+    # create dictionary for the file and radio button values to include in post submission
+    data = {"pred_type": "substrate"}
+    files = {file_name: open('input_substrate.sdf', 'rb')}
 
-print(response.text)
+    # submit the form
+    response = session.post(new_url, data=data, files=files)
+
+    # Read the text file line by line
+    print(response)
+    print(response.text)
+
+
+submit_form(url)
+
+
 
 
 
