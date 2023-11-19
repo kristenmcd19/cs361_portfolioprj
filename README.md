@@ -1,4 +1,4 @@
-# Partner Microservice Implementation - PGPRules Scraper
+# PGPRules Scraper
 
 **language:** python
 
