@@ -1,4 +1,4 @@
-# cs361_portfolioprj: Partner Microservice Implementation
+# Partner Microservice Implementation - PGPRules Scraper
 
 **language:** python
 
@@ -46,6 +46,7 @@ An example of this would be:
                     parsed_json = json.loads(file_contents)
                   
 example output: 
+
                   [
                       {
                           "id": "CGP_41251",
