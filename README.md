@@ -6,7 +6,8 @@
 
 **To Use:** first install beautiful soup (pip install beautifulsoup4) and the requests-html package (pip install requests-html)
 
-### **Description:** Program submits SDF file from user (contents found in input_substrate.sdf), selects a "Substrate" prediction type and submits form to site. It then follows the resulting report link and scrapes the molecule ID and whether the molecule is "substrate" or "non-substrate" and returns the results in a JSON file called "results_pgp.json"
+### **Description:** 
+Program submits SDF file from user (contents found in input_substrate.sdf), selects a "Substrate" prediction type and submits form to site. It then follows the resulting report link and scrapes the molecule ID and whether the molecule is "substrate" or "non-substrate" and returns the results in a JSON file called "results_pgp.json"
 
 ## Requesting Data
 To request data from this microservice: populate input_substrate.sdf. The program continuously monitors this file, and when populated, will submit the form and scrape results based on its contents. When the results have been captured, the program clears the SDF file in order to accurately look for the next input. 
