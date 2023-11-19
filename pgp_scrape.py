@@ -19,6 +19,8 @@ url = 'https://pgprules.cmdm.tw/'
 
 
 def submit_form(url):
+    """submits form on main site, populating "Substrate" and including the relevant SDF file
+    returns report link URL"""
     # GET request to the URL with the submission form
     url_add = ''
     response = session.get(url)
@@ -52,6 +54,8 @@ def submit_form(url):
 
 
 def scrape_results(report_link):
+    """Follows report link and scrape molecule ID and whether it is a substrate or not
+    returns JSON file"""
     # Get the HTML content from the report URL
     report_response = session.get(report_link)
 
@@ -59,6 +63,7 @@ def scrape_results(report_link):
     soup = BeautifulSoup(report_response.content, "html.parser")
 
     # Find all the elements with the specified class name
+    # both the molecule ID and substrate status share same h5 tag and class name
     elements = soup.find_all("h5", class_= "card-header")
 
     #clear out json file
@@ -84,6 +89,7 @@ while True:
             report_link = submit_form(url)
             scrape_results(report_link)
             sdf_file.close()
+            # clears SDF file after done so can look for new trigger
             with open('input_substrate.sdf', "w") as f_sdf_file:
                 f_sdf_file.truncate(0)
 
