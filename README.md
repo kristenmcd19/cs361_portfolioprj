@@ -1,12 +1,14 @@
 # cs361_portfolioprj: partner microservice implementation
 
 **language:** python
+
 **purpose:** scrape substrate predictive property results from https://pgprules.cmdm.tw/
+
 **to use:** first install beautiful soup (pip install beautifulsoup4) and the requests-html package (pip install requests-html)
 
-Program submits SDF file from user (contents found in input_substrate.sdf), selects a "Substrate" prediction type and submits form to site. It then follows the resulting report link and scrapes the molecule ID and whether the molecule is "substrate" or "non-substrate" and returns the results in a JSON file called "results_pgp.json"
+**Description:** Program submits SDF file from user (contents found in input_substrate.sdf), selects a "Substrate" prediction type and submits form to site. It then follows the resulting report link and scrapes the molecule ID and whether the molecule is "substrate" or "non-substrate" and returns the results in a JSON file called "results_pgp.json"
 
-To REQUEST data from this microservice: populate input_substrate.sdf. The program continuously monitors this file, and when populated, will submit the form and scrape results based on its contents. When the results have been captured, the program clears the SDF file in order to accurately look for the next input. 
+**To REQUEST data** from this microservice: populate input_substrate.sdf. The program continuously monitors this file, and when populated, will submit the form and scrape results based on its contents. When the results have been captured, the program clears the SDF file in order to accurately look for the next input. 
 
 input_substrate.sdf begins as a blank file. An example of a request is populating the file with the following content: 
 
@@ -31,7 +33,7 @@ $$$$
 
 The above is a sample sdf file for Benzene. 
 
-To RECEIVE data from this microservice, open the results_pgp.json and parse the results. 
+**To RECEIVE data** from this microservice, open the results_pgp.json and parse the results. 
 
 An example of this would be: 
 
@@ -49,5 +51,6 @@ example output:
 ]
 
 **UML Sequence Diagram: **
+![alt text](./partner_microservice_UML_sequence_diagram.png)
 
 
