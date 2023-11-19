@@ -39,12 +39,12 @@ The above is a sample sdf file for Benzene.
 To Receive Data from this microservice, open the results_pgp.json and parse the results. 
 
 An example of this would be: 
-                  '''python
+                  
                   import json
                   with open('results_pgp.json') as results_file:
                     file_contents = results_file.read()
                     parsed_json = json.loads(file_contents)
-                  '''
+                  
 example output: 
                   [
                       {
