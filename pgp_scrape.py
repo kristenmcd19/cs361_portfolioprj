@@ -1,5 +1,9 @@
-# cite sources: https://thepythoncode.com/code/extracting-and-submitting-web-page-forms-in-python
-# https://stackoverflow.com/questions/19577484/radio-button-value-being-sent-as-on-upon-form-submission
+# Author: Kristen (McDonald) Haynes
+# Partner Microservice: program submits SDF file to pgprules.cmdm.tw/ and scrapes resulting
+# property and molecule ID. can be used for 1 or several molecules in single SDF file
+# input/trigger - SDF file (input_substrate) populated
+# output - list of dictionaries in results_pgp.json
+
 
 from requests_html import HTMLSession
 from urllib.parse import urljoin
