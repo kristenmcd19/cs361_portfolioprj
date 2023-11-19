@@ -1,0 +1,277 @@
+{"percent":1,"status":"running","msg":"file copied: Yes\n","rurl":0}
+{"percent":1,"status":"running","msg":"SDFfile loaded.\n","rurl":0}
+{"percent":1,"status":"running","msg":"Calculating pubchem fingerprint...\n","rurl":0}
+{"percent":1,"status":"running","msg":"Processing CGP_41251 in input_substrate.sdf (1\/243).\n","rurl":0}
+{"percent":1,"status":"running","msg":"Processing CP100356_diaminoquinazoline in input_substrate.sdf (2\/243).\n","rurl":0}
+{"percent":1,"status":"running","msg":"Processing DPDPE in input_substrate.sdf (3\/243).\n","rurl":0}
+{"percent":1,"status":"running","msg":"Processing L_dopa in input_substrate.sdf (5\/243).\n","rurl":0}
+{"percent":2,"status":"running","msg":"Processing HOE33342 in input_substrate.sdf (4\/243).\n","rurl":0}
+{"percent":2,"status":"running","msg":"Processing NSC102815_got in input_substrate.sdf (6\/243).\n","rurl":0}
+{"percent":2,"status":"running","msg":"Processing NSC10460_got in input_substrate.sdf (7\/243).\n","rurl":0}
+{"percent":3,"status":"running","msg":"Processing NSC123127_got in input_substrate.sdf (8\/243).\n","rurl":0}
+{"percent":3,"status":"running","msg":"Processing NSC126765_got in input_substrate.sdf (9\/243).\n","rurl":0}
+{"percent":3,"status":"running","msg":"Processing NSC146396_got in input_substrate.sdf (10\/243).\n","rurl":0}
+{"percent":4,"status":"running","msg":"Processing NSC146397_got in input_substrate.sdf (11\/243).\n","rurl":0}
+{"percent":4,"status":"running","msg":"Processing NSC155694_got in input_substrate.sdf (13\/243).\n","rurl":0}
+{"percent":5,"status":"running","msg":"Processing NSC155693_got in input_substrate.sdf (12\/243).\n","rurl":0}
+{"percent":5,"status":"running","msg":"Processing NSC157995_got in input_substrate.sdf (14\/243).\n","rurl":0}
+{"percent":5,"status":"running","msg":"Processing NSC163088_got in input_substrate.sdf (15\/243).\n","rurl":0}
+{"percent":6,"status":"running","msg":"Processing NSC164011_got in input_substrate.sdf (16\/243).\n","rurl":0}
+{"percent":6,"status":"running","msg":"Processing NSC165563_got in input_substrate.sdf (17\/243).\n","rurl":0}
+{"percent":6,"status":"running","msg":"Processing NSC170365_got in input_substrate.sdf (18\/243).\n","rurl":0}
+{"percent":7,"status":"running","msg":"Processing NSC201241_got in input_substrate.sdf (19\/243).\n","rurl":0}
+{"percent":7,"status":"running","msg":"Processing NSC21075_got in input_substrate.sdf (20\/243).\n","rurl":0}
+{"percent":7,"status":"running","msg":"Processing NSC211500_got in input_substrate.sdf (21\/243).\n","rurl":0}
+{"percent":8,"status":"running","msg":"Processing NSC237106_got in input_substrate.sdf (22\/243).\n","rurl":0}
+{"percent":8,"status":"running","msg":"Processing NSC237671_got in input_substrate.sdf (23\/243).\n","rurl":0}
+{"percent":9,"status":"running","msg":"Processing NSC24559_got in input_substrate.sdf (24\/243).\n","rurl":0}
+{"percent":9,"status":"running","msg":"Processing NSC259968_got in input_substrate.sdf (25\/243).\n","rurl":0}
+{"percent":9,"status":"running","msg":"Processing NSC265450_got in input_substrate.sdf (26\/243).\n","rurl":0}
+{"percent":10,"status":"running","msg":"Processing NSC265473_got in input_substrate.sdf (27\/243).\n","rurl":0}
+{"percent":10,"status":"running","msg":"Processing NSC266763_got in input_substrate.sdf (28\/243).\n","rurl":0}
+{"percent":10,"status":"running","msg":"Processing NSC269756_got in input_substrate.sdf (29\/243).\n","rurl":0}
+{"percent":11,"status":"running","msg":"Processing NSC270693_got in input_substrate.sdf (30\/243).\n","rurl":0}
+{"percent":11,"status":"running","msg":"Processing NSC28002_got in input_substrate.sdf (31\/243).\n","rurl":0}
+{"percent":12,"status":"running","msg":"Processing NSC290494_got in input_substrate.sdf (32\/243).\n","rurl":0}
+{"percent":12,"status":"running","msg":"Processing NSC305884_got in input_substrate.sdf (33\/243). Average speed: 4.19 s\/mol.\n","rurl":0}
+{"percent":12,"status":"running","msg":"Processing NSC311152_got in input_substrate.sdf (34\/243). Average speed: 2.91 s\/mol.\n","rurl":0}
+{"percent":13,"status":"running","msg":"Processing NSC311153_got in input_substrate.sdf (35\/243). Average speed: 2.10 s\/mol.\n","rurl":0}
+{"percent":13,"status":"running","msg":"Processing NSC320877_got in input_substrate.sdf (36\/243). Average speed: 1.76 s\/mol.\n","rurl":0}
+{"percent":13,"status":"running","msg":"Processing NSC325014_got in input_substrate.sdf (37\/243). Average speed: 1.42 s\/mol.\n","rurl":0}
+{"percent":14,"status":"running","msg":"Processing NSC325663_got in input_substrate.sdf (38\/243). Average speed: 1.24 s\/mol.\n","rurl":0}
+{"percent":14,"status":"running","msg":"Processing NSC328426_Phyllanthoside in input_substrate.sdf (39\/243). Average speed: 1.08 s\/mol.\n","rurl":0}
+{"percent":15,"status":"running","msg":"Processing NSC330500_got in input_substrate.sdf (40\/243). Average speed: 0.94 s\/mol.\n","rurl":0}
+{"percent":15,"status":"running","msg":"Processing NSC336003_got in input_substrate.sdf (41\/243). Average speed: 0.93 s\/mol.\n","rurl":0}
+{"percent":15,"status":"running","msg":"Processing NSC337766_got in input_substrate.sdf (42\/243). Average speed: 0.86 s\/mol.\n","rurl":0}
+{"percent":16,"status":"running","msg":"Processing NSC341651_got in input_substrate.sdf (43\/243). Average speed: 0.79 s\/mol.\n","rurl":0}
+{"percent":16,"status":"running","msg":"Processing NSC351710_got in input_substrate.sdf (44\/243). Average speed: 0.74 s\/mol.\n","rurl":0}
+{"percent":16,"status":"running","msg":"Processing NSC353076_got in input_substrate.sdf (45\/243). Average speed: 0.69 s\/mol.\n","rurl":0}
+{"percent":17,"status":"running","msg":"Processing NSC354974_got in input_substrate.sdf (46\/243). Average speed: 0.65 s\/mol.\n","rurl":0}
+{"percent":17,"status":"running","msg":"Processing NSC354975_got in input_substrate.sdf (47\/243). Average speed: 0.62 s\/mol.\n","rurl":0}
+{"percent":17,"status":"running","msg":"Processing NSC355256_got in input_substrate.sdf (48\/243). Average speed: 0.58 s\/mol.\n","rurl":0}
+{"percent":18,"status":"running","msg":"Processing NSC356207_got in input_substrate.sdf (49\/243). Average speed: 0.55 s\/mol.\n","rurl":0}
+{"percent":18,"status":"running","msg":"Processing NSC363997_got in input_substrate.sdf (50\/243). Average speed: 0.53 s\/mol.\n","rurl":0}
+{"percent":19,"status":"running","msg":"Processing NSC365360_got in input_substrate.sdf (51\/243). Average speed: 0.51 s\/mol.\n","rurl":0}
+{"percent":19,"status":"running","msg":"Processing NSC374979_got in input_substrate.sdf (52\/243). Average speed: 0.49 s\/mol.\n","rurl":0}
+{"percent":19,"status":"running","msg":"Processing NSC374980_got in input_substrate.sdf (53\/243). Average speed: 0.51 s\/mol.\n","rurl":0}
+{"percent":20,"status":"running","msg":"Processing NSC38270_got in input_substrate.sdf (54\/243). Average speed: 0.49 s\/mol.\n","rurl":0}
+{"percent":20,"status":"running","msg":"Processing NSC49842_got in input_substrate.sdf (55\/243). Average speed: 0.49 s\/mol.\n","rurl":0}
+{"percent":20,"status":"running","msg":"Processing NSC526417_got in input_substrate.sdf (56\/243). Average speed: 0.51 s\/mol.\n","rurl":0}
+{"percent":21,"status":"running","msg":"Processing NSC52745_got in input_substrate.sdf (57\/243). Average speed: 0.51 s\/mol.\n","rurl":0}
+{"percent":21,"status":"running","msg":"Processing NSC58514_got in input_substrate.sdf (58\/243). Average speed: 0.50 s\/mol.\n","rurl":0}
+{"percent":22,"status":"running","msg":"Processing NSC600222_got in input_substrate.sdf (59\/243). Average speed: 0.49 s\/mol.\n","rurl":0}
+{"percent":22,"status":"running","msg":"Processing NSC604574_got in input_substrate.sdf (60\/243). Average speed: 0.47 s\/mol.\n","rurl":0}
+{"percent":22,"status":"running","msg":"Processing NSC618757_got in input_substrate.sdf (61\/243). Average speed: 0.46 s\/mol.\n","rurl":0}
+{"percent":23,"status":"running","msg":"Processing NSC623527_got in input_substrate.sdf (62\/243). Average speed: 0.45 s\/mol.\n","rurl":0}
+{"percent":23,"status":"running","msg":"Processing NSC630176 in input_substrate.sdf (63\/243). Average speed: 0.44 s\/mol.\n","rurl":0}
+{"percent":23,"status":"running","msg":"Processing NSC630678_got in input_substrate.sdf (64\/243). Average speed: 0.43 s\/mol.\n","rurl":0}
+{"percent":24,"status":"running","msg":"Processing NSC634791_got in input_substrate.sdf (65\/243). Average speed: 0.42 s\/mol.\n","rurl":0}
+{"percent":24,"status":"running","msg":"Processing NSC636679_got in input_substrate.sdf (66\/243). Average speed: 0.41 s\/mol.\n","rurl":0}
+{"percent":25,"status":"running","msg":"Processing NSC637651_got in input_substrate.sdf (67\/243). Average speed: 0.40 s\/mol.\n","rurl":0}
+{"percent":25,"status":"running","msg":"Processing NSC638066_got in input_substrate.sdf (68\/243). Average speed: 0.40 s\/mol.\n","rurl":0}
+{"percent":25,"status":"running","msg":"Processing NSC639659_got in input_substrate.sdf (70\/243). Average speed: 0.39 s\/mol.\n","rurl":0}
+{"percent":26,"status":"running","msg":"Processing NSC638788_got in input_substrate.sdf (69\/243). Average speed: 0.40 s\/mol.\n","rurl":0}
+{"percent":26,"status":"running","msg":"Processing NSC640085_got in input_substrate.sdf (71\/243). Average speed: 0.39 s\/mol.\n","rurl":0}
+{"percent":26,"status":"running","msg":"Processing NSC645008_got in input_substrate.sdf (72\/243). Average speed: 0.38 s\/mol.\n","rurl":0}
+{"percent":27,"status":"running","msg":"Processing NSC645301_got in input_substrate.sdf (73\/243). Average speed: 0.38 s\/mol.\n","rurl":0}
+{"percent":27,"status":"running","msg":"Processing NSC645302_got in input_substrate.sdf (74\/243). Average speed: 0.38 s\/mol.\n","rurl":0}
+{"percent":27,"status":"running","msg":"Processing NSC645305_got in input_substrate.sdf (75\/243). Average speed: 0.37 s\/mol.\n","rurl":0}
+{"percent":28,"status":"running","msg":"Processing NSC645306_got in input_substrate.sdf (76\/243). Average speed: 0.37 s\/mol.\n","rurl":0}
+{"percent":28,"status":"running","msg":"Processing NSC645806_got in input_substrate.sdf (77\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":29,"status":"running","msg":"Processing NSC651727_got in input_substrate.sdf (78\/243). Average speed: 0.37 s\/mol.\n","rurl":0}
+{"percent":29,"status":"running","msg":"Processing NSC656178_got in input_substrate.sdf (79\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":29,"status":"running","msg":"Processing NSC658831_got in input_substrate.sdf (80\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":30,"status":"running","msg":"Processing NSC661746_got in input_substrate.sdf (81\/243). Average speed: 0.35 s\/mol.\n","rurl":0}
+{"percent":30,"status":"running","msg":"Processing NSC664402_got in input_substrate.sdf (82\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":30,"status":"running","msg":"Processing NSC664404_got in input_substrate.sdf (83\/243). Average speed: 0.35 s\/mol.\n","rurl":0}
+{"percent":31,"status":"running","msg":"Processing NSC66490 in input_substrate.sdf (84\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":31,"status":"running","msg":"Processing NSC666608_got in input_substrate.sdf (85\/243). Average speed: 0.36 s\/mol.\n","rurl":0}
+{"percent":32,"status":"running","msg":"Processing NSC668380_got in input_substrate.sdf (86\/243). Average speed: 0.35 s\/mol.\n","rurl":0}
+{"percent":32,"status":"running","msg":"Processing NSC671867_got in input_substrate.sdf (87\/243). Average speed: 0.35 s\/mol.\n","rurl":0}
+{"percent":32,"status":"running","msg":"Processing NSC671870_got in input_substrate.sdf (88\/243). Average speed: 0.34 s\/mol.\n","rurl":0}
+{"percent":33,"status":"running","msg":"Processing NSC673187_got in input_substrate.sdf (89\/243). Average speed: 0.34 s\/mol.\n","rurl":0}
+{"percent":33,"status":"running","msg":"Processing NSC673188_got in input_substrate.sdf (90\/243). Average speed: 0.34 s\/mol.\n","rurl":0}
+{"percent":33,"status":"running","msg":"Processing NSC682066_got in input_substrate.sdf (91\/243). Average speed: 0.34 s\/mol.\n","rurl":0}
+{"percent":34,"status":"running","msg":"Processing NSC685302_got in input_substrate.sdf (92\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":34,"status":"running","msg":"Processing NSC690242_got in input_substrate.sdf (93\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":35,"status":"running","msg":"Processing NSC693120_got in input_substrate.sdf (94\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":35,"status":"running","msg":"Processing NSC693575_got in input_substrate.sdf (96\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":35,"status":"running","msg":"Processing NSC693539_got in input_substrate.sdf (95\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":36,"status":"running","msg":"Processing NSC694262_got in input_substrate.sdf (97\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":36,"status":"running","msg":"Processing NSC694268_got in input_substrate.sdf (98\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":36,"status":"running","msg":"Processing NSC695636_got in input_substrate.sdf (99\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":37,"status":"running","msg":"Processing NSC695935_got in input_substrate.sdf (100\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":37,"status":"running","msg":"Processing NSC696853_got in input_substrate.sdf (101\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":37,"status":"running","msg":"Processing NSC699477_got in input_substrate.sdf (102\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":38,"status":"running","msg":"Processing NSC699479_got in input_substrate.sdf (103\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":38,"status":"running","msg":"Processing NSC80466_got in input_substrate.sdf (104\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":39,"status":"running","msg":"Processing NSC80469_got in input_substrate.sdf (105\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":39,"status":"running","msg":"Processing NSC82151_got in input_substrate.sdf (106\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":39,"status":"running","msg":"Processing NSC93739_got in input_substrate.sdf (107\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":40,"status":"running","msg":"Processing NSC9609_got in input_substrate.sdf (108\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":40,"status":"running","msg":"Processing NSC98542_got in input_substrate.sdf (109\/243). Average speed: 0.33 s\/mol.\n","rurl":0}
+{"percent":40,"status":"running","msg":"Processing S9788 in input_substrate.sdf (110\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":41,"status":"running","msg":"Processing SDB_ethylenediamine in input_substrate.sdf (111\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":41,"status":"running","msg":"Processing S_farnesylcysteine_methylester in input_substrate.sdf (112\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":42,"status":"running","msg":"Processing UK_343664 in input_substrate.sdf (114\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":42,"status":"running","msg":"Processing UK_224671 in input_substrate.sdf (113\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":42,"status":"running","msg":"Processing abamectin in input_substrate.sdf (115\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":43,"status":"running","msg":"Processing acebutolol in input_substrate.sdf (116\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":43,"status":"running","msg":"Processing acetamido_deoxypodophyllotoxin in input_substrate.sdf (117\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":43,"status":"running","msg":"Processing actinomycin_d in input_substrate.sdf (118\/243). Average speed: 0.32 s\/mol.\n","rurl":0}
+{"percent":44,"status":"running","msg":"Processing adriamycin in input_substrate.sdf (119\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":44,"status":"running","msg":"Processing alpha_methyldigoxin in input_substrate.sdf (121\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":45,"status":"running","msg":"Processing aldosterone in input_substrate.sdf (120\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":45,"status":"running","msg":"Processing amoxicillin in input_substrate.sdf (122\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":45,"status":"running","msg":"Processing amprenavir in input_substrate.sdf (123\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":46,"status":"running","msg":"Processing asimadoline in input_substrate.sdf (124\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":46,"status":"running","msg":"Processing azidopine in input_substrate.sdf (125\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":46,"status":"running","msg":"Processing bepridil in input_substrate.sdf (126\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":47,"status":"running","msg":"Processing beta_acetyldigoxin in input_substrate.sdf (127\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":47,"status":"running","msg":"Processing bisantrene in input_substrate.sdf (128\/243). Average speed: 0.31 s\/mol.\n","rurl":0}
+{"percent":47,"status":"running","msg":"Processing bouvardin in input_substrate.sdf (129\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":48,"status":"running","msg":"Processing calcein_AM in input_substrate.sdf (131\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":48,"status":"running","msg":"Processing bunitrolol in input_substrate.sdf (130\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":49,"status":"running","msg":"Processing calphostin_C in input_substrate.sdf (132\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":49,"status":"running","msg":"Processing catharantine in input_substrate.sdf (134\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":49,"status":"running","msg":"Processing carebastin in input_substrate.sdf (133\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":50,"status":"running","msg":"Processing cefazolin in input_substrate.sdf (135\/243). Average speed: 0.30 s\/mol.\n","rurl":0}
+{"percent":50,"status":"running","msg":"Processing cefoperazone in input_substrate.sdf (136\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":50,"status":"running","msg":"Processing cefotetan in input_substrate.sdf (137\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":51,"status":"running","msg":"Processing celiprolol in input_substrate.sdf (138\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":51,"status":"running","msg":"Processing cephaeline in input_substrate.sdf (139\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":52,"status":"running","msg":"Processing cetirizine in input_substrate.sdf (140\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":52,"status":"running","msg":"Processing cinchonidine in input_substrate.sdf (141\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":52,"status":"running","msg":"Processing ciprofloxacin in input_substrate.sdf (142\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":53,"status":"running","msg":"Processing cis_flupenthixol in input_substrate.sdf (143\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":53,"status":"running","msg":"Processing clarithromycin in input_substrate.sdf (144\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":53,"status":"running","msg":"Processing colchicine in input_substrate.sdf (146\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":54,"status":"running","msg":"Processing clotrimazole in input_substrate.sdf (145\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":54,"status":"running","msg":"Processing corticosterone in input_substrate.sdf (147\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":55,"status":"running","msg":"Processing cortisol in input_substrate.sdf (148\/243). Average speed: 0.29 s\/mol.\n","rurl":0}
+{"percent":55,"status":"running","msg":"Processing cyclosporin_A in input_substrate.sdf (149\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":55,"status":"running","msg":"Processing cyclosporin_C in input_substrate.sdf (150\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":56,"status":"running","msg":"Processing daunomycin_daunorubicin in input_substrate.sdf (151\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":56,"status":"running","msg":"Processing debrisoquine in input_substrate.sdf (152\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":56,"status":"running","msg":"Processing dexniguldipine in input_substrate.sdf (154\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":57,"status":"running","msg":"Processing dexamethason in input_substrate.sdf (153\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":57,"status":"running","msg":"Processing digitoxigenin in input_substrate.sdf (156\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":58,"status":"running","msg":"Processing diazepam in input_substrate.sdf (155\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":58,"status":"running","msg":"Processing digitoxin in input_substrate.sdf (157\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":58,"status":"running","msg":"Processing digoxigenin in input_substrate.sdf (158\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":59,"status":"running","msg":"Processing digoxin in input_substrate.sdf (159\/243). Average speed: 0.28 s\/mol.\n","rurl":0}
+{"percent":59,"status":"running","msg":"Processing docetaxel in input_substrate.sdf (160\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":59,"status":"running","msg":"Processing dolastatin_10 in input_substrate.sdf (161\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":60,"status":"running","msg":"Processing domperidone in input_substrate.sdf (162\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":60,"status":"running","msg":"Processing ebastine in input_substrate.sdf (163\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":60,"status":"running","msg":"Processing eletripan in input_substrate.sdf (164\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":61,"status":"running","msg":"Processing enoxacin in input_substrate.sdf (165\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":61,"status":"running","msg":"Processing erythromycin in input_substrate.sdf (167\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":62,"status":"running","msg":"Processing epitholon_a in input_substrate.sdf (166\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":62,"status":"running","msg":"Processing estriol in input_substrate.sdf (169\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":62,"status":"running","msg":"Processing estradiol in input_substrate.sdf (168\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":63,"status":"running","msg":"Processing etoposide in input_substrate.sdf (170\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":63,"status":"running","msg":"Processing famotidine in input_substrate.sdf (171\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":63,"status":"running","msg":"Processing fexofenadine in input_substrate.sdf (172\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":64,"status":"running","msg":"Processing flesinoxan in input_substrate.sdf (173\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":64,"status":"running","msg":"Processing fluphenazine in input_substrate.sdf (174\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":65,"status":"running","msg":"Processing gallopamil in input_substrate.sdf (175\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":65,"status":"running","msg":"Processing hydroxyrubicin in input_substrate.sdf (176\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":65,"status":"running","msg":"Processing idarubicin in input_substrate.sdf (177\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":66,"status":"running","msg":"Processing imatinib in input_substrate.sdf (178\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":66,"status":"running","msg":"Processing indinavir in input_substrate.sdf (179\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":66,"status":"running","msg":"Processing iodipine in input_substrate.sdf (180\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":67,"status":"running","msg":"Processing irinotecan in input_substrate.sdf (181\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":67,"status":"running","msg":"Processing isosafrole in input_substrate.sdf (182\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":68,"status":"running","msg":"Processing ivermectin in input_substrate.sdf (183\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":68,"status":"running","msg":"Processing labetalol in input_substrate.sdf (184\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":68,"status":"running","msg":"Processing leupeptin in input_substrate.sdf (185\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":69,"status":"running","msg":"Processing levofloxacin in input_substrate.sdf (186\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":69,"status":"running","msg":"Processing lopinavir in input_substrate.sdf (187\/243). Average speed: 0.27 s\/mol.\n","rurl":0}
+{"percent":69,"status":"running","msg":"Processing losartan in input_substrate.sdf (189\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":70,"status":"running","msg":"Processing loratidine in input_substrate.sdf (188\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":70,"status":"running","msg":"Processing methadone in input_substrate.sdf (190\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":70,"status":"running","msg":"Processing methylprednisolone in input_substrate.sdf (191\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":71,"status":"running","msg":"Processing methylreserpate in input_substrate.sdf (192\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":71,"status":"running","msg":"Processing metkephamid in input_substrate.sdf (193\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":72,"status":"running","msg":"Processing mithramycin in input_substrate.sdf (194\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":72,"status":"running","msg":"Processing mitomycin_C in input_substrate.sdf (195\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":72,"status":"running","msg":"Processing mitoxantrone in input_substrate.sdf (196\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":73,"status":"running","msg":"Processing monensin in input_substrate.sdf (197\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":73,"status":"running","msg":"Processing morphine in input_substrate.sdf (198\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":73,"status":"running","msg":"Processing morphine_6_glucuronide in input_substrate.sdf (199\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":74,"status":"running","msg":"Processing nadolol in input_substrate.sdf (200\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":74,"status":"running","msg":"Processing nimodipine in input_substrate.sdf (201\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":75,"status":"running","msg":"Processing nogalamycin in input_substrate.sdf (202\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":75,"status":"running","msg":"Processing nortriptyline in input_substrate.sdf (203\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":75,"status":"running","msg":"Processing okadaic_acid in input_substrate.sdf (204\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":76,"status":"running","msg":"Processing olivomycin_A in input_substrate.sdf (205\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":76,"status":"running","msg":"Processing ondansetron in input_substrate.sdf (206\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":76,"status":"running","msg":"Processing paclitaxel in input_substrate.sdf (207\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":77,"status":"running","msg":"Processing pafenolol in input_substrate.sdf (208\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":77,"status":"running","msg":"Processing perphenazine in input_substrate.sdf (209\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":78,"status":"running","msg":"Processing phenobarbital in input_substrate.sdf (210\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":78,"status":"running","msg":"Processing phenoxazine in input_substrate.sdf (211\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":78,"status":"running","msg":"Processing phenytoin in input_substrate.sdf (212\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":79,"status":"running","msg":"Processing prazosin in input_substrate.sdf (213\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":79,"status":"running","msg":"Processing pristinamycin in input_substrate.sdf (214\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":79,"status":"running","msg":"Processing puromycin in input_substrate.sdf (215\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":80,"status":"running","msg":"Processing quinine in input_substrate.sdf (216\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":80,"status":"running","msg":"Processing ramosetron in input_substrate.sdf (217\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":80,"status":"running","msg":"Processing rapamycin in input_substrate.sdf (218\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":81,"status":"running","msg":"Processing rifampicin in input_substrate.sdf (219\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":81,"status":"running","msg":"Processing risperidone in input_substrate.sdf (220\/243). Average speed: 0.26 s\/mol.\n","rurl":0}
+{"percent":82,"status":"running","msg":"Processing safingol in input_substrate.sdf (221\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":82,"status":"running","msg":"Processing sparfloxacin in input_substrate.sdf (222\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":82,"status":"running","msg":"Processing staurosporine in input_substrate.sdf (223\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":83,"status":"running","msg":"Processing talinolol in input_substrate.sdf (224\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":83,"status":"running","msg":"Processing tentoxin in input_substrate.sdf (226\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":83,"status":"running","msg":"Processing teniposide in input_substrate.sdf (225\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":84,"status":"running","msg":"Processing topotecan in input_substrate.sdf (230\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":84,"status":"running","msg":"Processing thioridazine in input_substrate.sdf (229\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":85,"status":"running","msg":"Processing terfenadine in input_substrate.sdf (227\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":85,"status":"running","msg":"Processing tetracycline in input_substrate.sdf (228\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":85,"status":"running","msg":"Processing toremifene in input_substrate.sdf (231\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":86,"status":"running","msg":"Processing trifluoperazine in input_substrate.sdf (232\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":86,"status":"running","msg":"Processing triflupromazine in input_substrate.sdf (233\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":86,"status":"running","msg":"Processing triphenyl_phosphonium_bromide in input_substrate.sdf (235\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":87,"status":"running","msg":"Processing trimethoprim in input_substrate.sdf (234\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":87,"status":"running","msg":"Processing triton_X_100 in input_substrate.sdf (236\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":88,"status":"running","msg":"Processing tubulosine in input_substrate.sdf (237\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":88,"status":"running","msg":"Processing valinomycin in input_substrate.sdf (238\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":88,"status":"running","msg":"Processing vinblastine in input_substrate.sdf (239\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":89,"status":"running","msg":"Processing vincristine in input_substrate.sdf (240\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":89,"status":"running","msg":"Processing vindesine in input_substrate.sdf (241\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":89,"status":"running","msg":"Processing vindoline in input_substrate.sdf (242\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":90,"status":"running","msg":"Processing vinorelbin in input_substrate.sdf (243\/243). Average speed: 0.25 s\/mol.\n","rurl":0}
+{"percent":90,"status":"running","msg":"Descriptor calculation completed in 56.998 secs . Average speed: 0.23 s\/mol.\n","rurl":0}
+{"percent":90,"status":"running","msg":"All Compounds are predicted.\n","rurl":0}
+{"percent":90,"status":"running","msg":"Calculating distance to model (0\/243)...\n","rurl":0}
+{"percent":91,"status":"running","msg":"Calculating distance to model (10\/243)...\n","rurl":0}
+{"percent":91,"status":"running","msg":"Calculating distance to model (20\/243)...\n","rurl":0}
+{"percent":92,"status":"running","msg":"Calculating distance to model (30\/243)...\n","rurl":0}
+{"percent":92,"status":"running","msg":"Calculating distance to model (40\/243)...\n","rurl":0}
+{"percent":92,"status":"running","msg":"Calculating distance to model (50\/243)...\n","rurl":0}
+{"percent":93,"status":"running","msg":"Calculating distance to model (60\/243)...\n","rurl":0}
+{"percent":93,"status":"running","msg":"Calculating distance to model (70\/243)...\n","rurl":0}
+{"percent":93,"status":"running","msg":"Calculating distance to model (80\/243)...\n","rurl":0}
+{"percent":94,"status":"running","msg":"Calculating distance to model (90\/243)...\n","rurl":0}
+{"percent":94,"status":"running","msg":"Calculating distance to model (100\/243)...\n","rurl":0}
+{"percent":95,"status":"running","msg":"Calculating distance to model (110\/243)...\n","rurl":0}
+{"percent":95,"status":"running","msg":"Calculating distance to model (120\/243)...\n","rurl":0}
+{"percent":95,"status":"running","msg":"Calculating distance to model (130\/243)...\n","rurl":0}
+{"percent":96,"status":"running","msg":"Calculating distance to model (140\/243)...\n","rurl":0}
+{"percent":96,"status":"running","msg":"Calculating distance to model (150\/243)...\n","rurl":0}
+{"percent":96,"status":"running","msg":"Calculating distance to model (160\/243)...\n","rurl":0}
+{"percent":97,"status":"running","msg":"Calculating distance to model (170\/243)...\n","rurl":0}
+{"percent":97,"status":"running","msg":"Calculating distance to model (180\/243)...\n","rurl":0}
+{"percent":98,"status":"running","msg":"Calculating distance to model (190\/243)...\n","rurl":0}
+{"percent":98,"status":"running","msg":"Calculating distance to model (200\/243)...\n","rurl":0}
+{"percent":98,"status":"running","msg":"Calculating distance to model (210\/243)...\n","rurl":0}
+{"percent":99,"status":"running","msg":"Calculating distance to model (220\/243)...\n","rurl":0}
+{"percent":99,"status":"running","msg":"Calculating distance to model (230\/243)...\n","rurl":0}
+{"percent":99,"status":"running","msg":"Calculating distance to model (240\/243)...\n","rurl":0}
+{"percent":99,"status":"running","msg":"Distance to model calculated\n","rurl":0}
+{"percent":100,"status":"running","msg":"Predicted result organized\n","rurl":0}
+{"percent":100,"status":"running","msg":"Output rendered.\n","rurl":0}
+{"percent":100,"status":"done","msg":"Process Completed\n","rurl":"\/report\/65594e8a58abd.html"}

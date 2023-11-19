@@ -1,0 +1,974 @@
+[
+    {
+        "id": "CGP_41251",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "CP100356_diaminoquinazoline",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "DPDPE",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "HOE33342",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "L_dopa",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC102815_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC10460_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC123127_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC126765_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC146396_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC146397_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC155693_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC155694_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC157995_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC163088_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC164011_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC165563_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC170365_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC201241_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC21075_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC211500_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC237106_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC237671_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC24559_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC259968_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC265450_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC265473_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC266763_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC269756_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC270693_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC28002_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC290494_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC305884_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC311152_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC311153_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC320877_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC325014_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC325663_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC328426_Phyllanthoside",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC330500_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC336003_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC337766_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC341651_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC351710_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC353076_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC354974_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC354975_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC355256_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC356207_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC363997_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC365360_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC374979_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC374980_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC38270_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC49842_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC526417_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC52745_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC58514_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC600222_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC604574_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC618757_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC623527_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC630176",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC630678_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC634791_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC636679_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC637651_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC638066_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC638788_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC639659_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC640085_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645008_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645301_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645302_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645305_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645306_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC645806_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC651727_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC656178_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC658831_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC661746_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC664402_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC664404_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC66490",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC666608_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC668380_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC671867_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC671870_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC673187_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC673188_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC682066_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC685302_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC690242_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC693120_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC693539_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC693575_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC694262_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC694268_got",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "NSC695636_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC695935_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC696853_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC699477_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC699479_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC80466_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC80469_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC82151_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC93739_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC9609_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "NSC98542_got",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "S9788",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "SDB_ethylenediamine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "S_farnesylcysteine_methylester",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "UK_224671",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "UK_343664",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "abamectin",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "acebutolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "acetamido_deoxypodophyllotoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "actinomycin_d",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "adriamycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "aldosterone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "alpha_methyldigoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "amoxicillin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "amprenavir",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "asimadoline",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "azidopine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "bepridil",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "beta_acetyldigoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "bisantrene",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "bouvardin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "bunitrolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "calcein_AM",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "calphostin_C",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "carebastin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "catharantine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "cefazolin",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "cefoperazone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cefotetan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "celiprolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cephaeline",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cetirizine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cinchonidine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "ciprofloxacin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cis_flupenthixol",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "clarithromycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "clotrimazole",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "colchicine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "corticosterone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cortisol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cyclosporin_A",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "cyclosporin_C",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "daunomycin_daunorubicin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "debrisoquine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "dexamethason",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "dexniguldipine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "diazepam",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "digitoxigenin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "digitoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "digoxigenin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "digoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "docetaxel",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "dolastatin_10",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "domperidone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "ebastine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "eletripan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "enoxacin",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "epitholon_a",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "erythromycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "estradiol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "estriol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "etoposide",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "famotidine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "fexofenadine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "flesinoxan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "fluphenazine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "gallopamil",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "hydroxyrubicin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "idarubicin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "imatinib",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "indinavir",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "iodipine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "irinotecan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "isosafrole",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "ivermectin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "labetalol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "leupeptin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "levofloxacin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "lopinavir",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "loratidine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "losartan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "methadone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "methylprednisolone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "methylreserpate",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "metkephamid",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "mithramycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "mitomycin_C",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "mitoxantrone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "monensin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "morphine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "morphine_6_glucuronide",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "nadolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "nimodipine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "nogalamycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "nortriptyline",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "okadaic_acid",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "olivomycin_A",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "ondansetron",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "paclitaxel",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "pafenolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "perphenazine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "phenobarbital",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "phenoxazine",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "phenytoin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "prazosin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "pristinamycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "puromycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "quinine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "ramosetron",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "rapamycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "rifampicin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "risperidone",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "safingol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "sparfloxacin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "staurosporine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "talinolol",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "teniposide",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "tentoxin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "terfenadine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "tetracycline",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "thioridazine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "topotecan",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "toremifene",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "trifluoperazine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "triflupromazine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "trimethoprim",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "triphenyl_phosphonium_bromide",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "triton_X_100",
+        "substrate_stat": "Non-Substrate"
+    },
+    {
+        "id": "tubulosine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "valinomycin",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "vinblastine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "vincristine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "vindesine",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "vindoline",
+        "substrate_stat": "Substrate"
+    },
+    {
+        "id": "vinorelbin",
+        "substrate_stat": "Substrate"
+    }
+]
